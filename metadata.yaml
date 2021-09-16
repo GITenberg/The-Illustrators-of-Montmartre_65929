@@ -1,0 +1,34 @@
+_repo: The-Illustrators-of-Montmartre_65929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emanuel, Frank L. (Frank Lewis)
+    aliases:
+    - Emanuel, F. L. (Frank Lewis)
+    - Emanuel, Francisco L.
+    - Emanuel, Frank Lewis
+    birthdate: 1865
+    deathdate: 1948
+    gutenberg_agent_id: '53555'
+    url: http://www.gutenberg.org/2009/agents/53555
+description: ''
+gutenberg_issued: '2021-07-27'
+identifiers:
+  gutenberg: '65929'
+  lccn: '04014565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'The Langham series: an illustrated collection of art monographs, ed.
+  by Selwyn Brinton [v.3]'
+subjects:
+- !lcc 'NC'
+- !lcsh 'Montmartre (Paris, France) -- Biography'
+- !lcsh 'Illustrators -- France -- Biography'
+- GITenberg
+tableOfContents: A. Steinlen -- Caran d'Ache -- H. de Toulouse Lautrec -- P. Balluriau
+  -- F. Vallotton -- L. Morin -- C. Huard -- J. Wély -- L. Malteste -- J.L. Forain
+  -- C. Léandre -- Conclusion.
+title: The Illustrators of Montmartre
+url: http://www.gutenberg.org/ebooks/65929
